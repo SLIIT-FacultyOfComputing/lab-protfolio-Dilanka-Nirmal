@@ -128,18 +128,21 @@ class _HomeState extends State<Home> {
     );
   }
 
+  // Handle the change of the todo item
   void _handleToDoChange(ToDo todo) {
     setState(() {
       todo.isDone = !todo.isDone;
     });
   }
 
+  // Delete the todo item
   void _deleteToDoItem(String id) {
     setState(() {
       todosList.removeWhere((item) => item.id == id);
     });
   }
 
+  // Build the app bar
   void _addToDoItem(String toDo) {
     setState(() {
       todosList.add(ToDo(
@@ -150,6 +153,7 @@ class _HomeState extends State<Home> {
     _todoController.clear();
   }
 
+  // Build the app bar
   void _runFilter(String enteredKeyword) {
     List<ToDo> results = [];
     if (enteredKeyword.isEmpty) {
@@ -167,6 +171,7 @@ class _HomeState extends State<Home> {
     });
   }
 
+  // Build the search box
   Widget searchBox() {
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 15),
@@ -195,6 +200,7 @@ class _HomeState extends State<Home> {
     );
   }
 
+  // Build the app bar
   AppBar _buildAppBar() {
     return AppBar(
       backgroundColor: tdBGColor,

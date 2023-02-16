@@ -1,14 +1,17 @@
+// Model class for ToDo
 class ToDo {
   String? id;
   String? todoText;
   bool isDone;
 
+// Constructor
   ToDo({
     required this.id,
     required this.todoText,
     this.isDone = false,
   });
 
+// Initialize the list of ToDo
   static List<ToDo> todoList() {
     return [
       ToDo(id: '01', todoText: 'CTSE Lectures', isDone: true),
