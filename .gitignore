@@ -1,0 +1,47 @@
+# Miscellaneous
+Week_02/ctse_lab_01_todo_app/*.class
+Week_02/ctse_lab_01_todo_app/*.log
+Week_02/ctse_lab_01_todo_app/*.pyc
+Week_02/ctse_lab_01_todo_app/*.swp
+Week_02/ctse_lab_01_todo_app/.DS_Store
+Week_02/ctse_lab_01_todo_app/.atom/
+Week_02/ctse_lab_01_todo_app/.buildlog/
+Week_02/ctse_lab_01_todo_app/.history
+Week_02/ctse_lab_01_todo_app/.svn/
+Week_02/ctse_lab_01_todo_app/migrate_working_dir/
+
+# IntelliJ related
+Week_02/ctse_lab_01_todo_app/*.iml
+Week_02/ctse_lab_01_todo_app/*.ipr
+Week_02/ctse_lab_01_todo_app/*.iws
+Week_02/ctse_lab_01_todo_app/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+Week_02/ctse_lab_01_todo_app/**/doc/api/
+Week_02/ctse_lab_01_todo_app/**/ios/Flutter/.last_build_id
+Week_02/ctse_lab_01_todo_app/.dart_tool/
+Week_02/ctse_lab_01_todo_app/.flutter-plugins
+Week_02/ctse_lab_01_todo_app/.flutter-plugins-dependencies
+Week_02/ctse_lab_01_todo_app/.packages
+Week_02/ctse_lab_01_todo_app/.pub-cache/
+Week_02/ctse_lab_01_todo_app/.pub/
+Week_02/ctse_lab_01_todo_app/build/
+
+# Web related
+Week_02/ctse_lab_01_todo_app/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+Week_02/ctse_lab_01_todo_app/app.*.symbols
+
+# Obfuscation related
+Week_02/ctse_lab_01_todo_app/app.*.map.json
+
+# Android Studio will place build artifacts here
+Week_02/ctse_lab_01_todo_app/android/app/debug
+Week_02/ctse_lab_01_todo_app/android/app/profile
+Week_02/ctse_lab_01_todo_app/android/app/release
