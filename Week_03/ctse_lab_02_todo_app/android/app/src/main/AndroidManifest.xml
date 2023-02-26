@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ctse_lab_01_todo_app">
+    package="com.example.ctse_lab_02_todo_app">
    <application
-        android:label="ctse_lab_01_todo_app"
+        android:label="ctse_lab_02_todo_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

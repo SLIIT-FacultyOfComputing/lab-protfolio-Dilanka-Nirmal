@@ -1,4 +1,4 @@
-# ctse_lab_01_todo_app
+# ctse_lab_02_todo_app
 
 A new Flutter project.
 
