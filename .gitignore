@@ -1,3 +1,5 @@
+# Lab 01 ######################################################
+
 # Miscellaneous
 Week_02/ctse_lab_01_todo_app/*.class
 Week_02/ctse_lab_01_todo_app/*.log
@@ -45,3 +47,54 @@ Week_02/ctse_lab_01_todo_app/app.*.map.json
 Week_02/ctse_lab_01_todo_app/android/app/debug
 Week_02/ctse_lab_01_todo_app/android/app/profile
 Week_02/ctse_lab_01_todo_app/android/app/release
+
+
+# Lab 02 ######################################################
+
+# Miscellaneous
+Week_03/ctse_lab_02_todo_app/*.class
+Week_03/ctse_lab_02_todo_app/*.log
+Week_03/ctse_lab_02_todo_app/*.pyc
+Week_03/ctse_lab_02_todo_app/*.swp
+Week_03/ctse_lab_02_todo_app/.DS_Store
+Week_03/ctse_lab_02_todo_app/.atom/
+Week_03/ctse_lab_02_todo_app/.buildlog/
+Week_03/ctse_lab_02_todo_app/.history
+Week_03/ctse_lab_02_todo_app/.svn/
+Week_03/ctse_lab_02_todo_app/migrate_working_dir/
+
+# IntelliJ related
+Week_03/ctse_lab_02_todo_app/*.iml
+Week_03/ctse_lab_02_todo_app/*.ipr
+Week_03/ctse_lab_02_todo_app/*.iws
+Week_03/ctse_lab_02_todo_app/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+Week_03/ctse_lab_02_todo_app/**/doc/api/
+Week_03/ctse_lab_02_todo_app/**/ios/Flutter/.last_build_id
+Week_03/ctse_lab_02_todo_app/.dart_tool/
+Week_03/ctse_lab_02_todo_app/.flutter-plugins
+Week_03/ctse_lab_02_todo_app/.flutter-plugins-dependencies
+Week_03/ctse_lab_02_todo_app/.packages
+Week_03/ctse_lab_02_todo_app/.pub-cache/
+Week_03/ctse_lab_02_todo_app/.pub/
+Week_03/ctse_lab_02_todo_app/build/
+
+# Web related
+Week_03/ctse_lab_02_todo_app/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+Week_03/ctse_lab_02_todo_app/app.*.symbols
+
+# Obfuscation related
+Week_03/ctse_lab_02_todo_app/app.*.map.json
+
+# Android Studio will place build artifacts here
+Week_03/ctse_lab_02_todo_app/android/app/debug
+Week_03/ctse_lab_02_todo_app/android/app/profile
+Week_03/ctse_lab_02_todo_app/android/app/release
