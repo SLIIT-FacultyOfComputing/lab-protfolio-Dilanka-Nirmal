@@ -32,7 +32,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
             TextField(
               controller: fullNameController,
               decoration: const InputDecoration(
-                hintText: 'FullName',
+                hintText: 'Enter the fullname',
               ),
             ),
             const SizedBox(
@@ -41,7 +41,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
             TextField(
               controller: emailController,
               decoration: const InputDecoration(
-                hintText: 'Email',
+                hintText: 'Enter the email',
               ),
             ),
             const SizedBox(
@@ -51,7 +51,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
               controller: passwordController,
               obscureText: true,
               decoration: const InputDecoration(
-                hintText: 'Password',
+                hintText: 'Enter the password',
               ),
             ),
             const SizedBox(
@@ -61,7 +61,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
               controller: confirmController,
               obscureText: true,
               decoration: const InputDecoration(
-                hintText: 'Confirm Password',
+                hintText: 'Confirm the password',
               ),
             ),
             const SizedBox(
@@ -88,7 +88,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                     // show error toast
                     Fluttertoast.showToast(
                         msg:
-                            'Weak Password, at least 6 characters are required');
+                            'Weak password, at least 6 characters are required');
 
                     return;
                   }
@@ -104,7 +104,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
 
                   ProgressDialog progressDialog = ProgressDialog(
                     context,
-                    title: const Text('Signing Up'),
+                    title: const Text('Signing up'),
                     message: const Text('Please wait'),
                   );
 
