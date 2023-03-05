@@ -98,3 +98,53 @@ Week_03/ctse_lab_02_todo_app/app.*.map.json
 Week_03/ctse_lab_02_todo_app/android/app/debug
 Week_03/ctse_lab_02_todo_app/android/app/profile
 Week_03/ctse_lab_02_todo_app/android/app/release
+
+# In_Lab 01 ######################################################
+
+# Miscellaneous
+in_lab_test_01/*.class
+in_lab_test_01/*.log
+in_lab_test_01/*.pyc
+in_lab_test_01/*.swp
+in_lab_test_01/.DS_Store
+in_lab_test_01/.atom/
+in_lab_test_01/.buildlog/
+in_lab_test_01/.history
+in_lab_test_01/.svn/
+in_lab_test_01/migrate_working_dir/
+
+# IntelliJ related
+in_lab_test_01/*.iml
+in_lab_test_01/*.ipr
+in_lab_test_01/*.iws
+in_lab_test_01/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+in_lab_test_01/**/doc/api/
+in_lab_test_01/**/ios/Flutter/.last_build_id
+in_lab_test_01/.dart_tool/
+in_lab_test_01/.flutter-plugins
+in_lab_test_01/.flutter-plugins-dependencies
+in_lab_test_01/.packages
+in_lab_test_01/.pub-cache/
+in_lab_test_01/.pub/
+in_lab_test_01/build/
+
+# Web related
+in_lab_test_01/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+in_lab_test_01/app.*.symbols
+
+# Obfuscation related
+in_lab_test_01/app.*.map.json
+
+# Android Studio will place build artifacts here
+in_lab_test_01/android/app/debug
+in_lab_test_01/android/app/profile
+in_lab_test_01/android/app/release
