@@ -148,3 +148,70 @@ in_lab_test_01/app.*.map.json
 in_lab_test_01/android/app/debug
 in_lab_test_01/android/app/profile
 in_lab_test_01/android/app/release
+
+
+# Lab 04 ######################################################
+
+# OSX
+#
+Week_04/ctse_reactnative_todo/.DS_Store
+
+# Xcode
+#
+Week_04/ctse_reactnative_todo/build/
+Week_04/ctse_reactnative_todo/*.pbxuser
+Week_04/ctse_reactnative_todo/!default.pbxuser
+Week_04/ctse_reactnative_todo/*.mode1v3
+Week_04/ctse_reactnative_todo/!default.mode1v3
+Week_04/ctse_reactnative_todo/*.mode2v3
+Week_04/ctse_reactnative_todo/!default.mode2v3
+Week_04/ctse_reactnative_todo/*.perspectivev3
+Week_04/ctse_reactnative_todo/!default.perspectivev3
+Week_04/ctse_reactnative_todo/xcuserdata
+Week_04/ctse_reactnative_todo/*.xccheckout
+Week_04/ctse_reactnative_todo/*.moved-aside
+Week_04/ctse_reactnative_todo/DerivedData
+Week_04/ctse_reactnative_todo/*.hmap
+Week_04/ctse_reactnative_todo/*.ipa
+Week_04/ctse_reactnative_todo/*.xcuserstate
+Week_04/ctse_reactnative_todo/ios/.xcode.env.local
+
+# Android/IntelliJ
+#
+Week_04/ctse_reactnative_todo/build/
+Week_04/ctse_reactnative_todo/.idea
+Week_04/ctse_reactnative_todo/.gradle
+Week_04/ctse_reactnative_todo/local.properties
+Week_04/ctse_reactnative_todo/*.iml
+Week_04/ctse_reactnative_todo/*.hprof
+Week_04/ctse_reactnative_todo/.cxx/
+Week_04/ctse_reactnative_todo/*.keystore
+Week_04/ctse_reactnative_todo/!debug.keystore
+
+# node.js
+#
+Week_04/ctse_reactnative_todo/node_modules/
+Week_04/ctse_reactnative_todo/npm-debug.log
+Week_04/ctse_reactnative_todo/yarn-error.log
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+Week_04/ctse_reactnative_todo/**/fastlane/report.xml
+Week_04/ctse_reactnative_todo/**/fastlane/Preview.html
+Week_04/ctse_reactnative_todo/**/fastlane/screenshots
+Week_04/ctse_reactnative_todo/**/fastlane/test_output
+
+# Bundle artifact
+Week_04/ctse_reactnative_todo/*.jsbundle
+
+# Ruby / CocoaPods
+Week_04/ctse_reactnative_todo/ios/Pods/
+Week_04/ctse_reactnative_todo/vendor/bundle/
+
+# Temporary files created by Metro to check the health of the file watcher
+Week_04/ctse_reactnative_todo/.metro-health-check*
